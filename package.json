@@ -1,5 +1,5 @@
 {
-  "name": "ip-address-tracker-master",
+  "name": "ip-address-tracker",
   "version": "0.1.0",
   "private": true,
   "description": "A web application built using Next.js and Chakra UI that provide IP geolocation information using an API.",
